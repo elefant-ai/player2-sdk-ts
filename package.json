@@ -6,6 +6,13 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elefant-ai/player2-sdk-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elefant-ai/player2-sdk-ts/issues"
+  },
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
